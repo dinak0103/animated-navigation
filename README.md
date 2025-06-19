@@ -29,8 +29,3 @@ A simple and visually appealing animated navigation bar built using **HTML**, **
 2. **Open the project**  
   Open index.html in your browser or launch with a local development server.
 
-## 📚 What I Learned
-
--How to create toggle effects with classList.toggle()
--Using CSS transitions for smooth UI animation
--Building clean, animated components with minimal code
